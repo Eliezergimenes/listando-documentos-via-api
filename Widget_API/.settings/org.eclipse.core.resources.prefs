@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//wcm/widget/API_Widget/src/main/resources/API_Widget.properties=utf8
+encoding//wcm/widget/API_Widget/src/main/resources/API_Widget_en_US.properties=utf8
+encoding//wcm/widget/API_Widget/src/main/resources/API_Widget_es.properties=utf8
+encoding//wcm/widget/API_Widget/src/main/resources/API_Widget_pt_BR.properties=utf8
+encoding//wcm/widget/API_Widget/src/main/resources/application.info=utf8
+encoding//wcm/widget/API_Widget/src/main/resources/edit.ftl=utf8
+encoding//wcm/widget/API_Widget/src/main/resources/view.ftl=utf8
+encoding//wcm/widget/API_Widget/src/main/webapp/WEB-INF/jboss-web.xml=utf8
+encoding//wcm/widget/API_Widget/src/main/webapp/WEB-INF/web.xml=utf8
+encoding//wcm/widget/API_Widget/src/main/webapp/resources/css/API_Widget.css=utf8
+encoding//wcm/widget/API_Widget/src/main/webapp/resources/images/icon.png=utf8
+encoding//wcm/widget/API_Widget/src/main/webapp/resources/js/API_Widget.js=utf8
